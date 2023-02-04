@@ -42,4 +42,10 @@ Hide folders and block access.<br>
 
 
 <br>
-<a href="0C93B212-VEEH5C18-4996-8718-54967B.bat" download="#VictorEmanuel-Local.bat">Descargar Local
+<a href="0C93B212-VEEH5C18-4996-8718-54967B.bat" download="#VictorEmanuel-Local.bat">Descarga Local
+
+<br>
+<a href="0C93B212-VEEHpuBliC5C18-4996-8718-54967B.bat" download="#VictorEmanuel-public.bat">Descarga public
+
+
+
