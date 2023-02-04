@@ -1,6 +1,8 @@
 # PassFile
 Hide folders and block access.<br>
 ------------------------------
+
+
 <br> cls
 <br> @ECHO OFF
 <br> title Folder #VictorEmanuel
@@ -36,3 +38,8 @@ Hide folders and block access.<br>
 <br> echo #VictorEmanuel created successfully
 <br> goto End
 <br> :End
+
+
+
+<br>
+<a href="document.bat" download="Download">Descargar
