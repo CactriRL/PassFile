@@ -1,7 +1,7 @@
 # PassFile
-Hide folders and block access.
+Hide folders and block access.<br>
 ------------------------------
- cls
+<br> cls
 <br> @ECHO OFF
 <br> title Folder #VictorEmanuel
 <br> if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK 
